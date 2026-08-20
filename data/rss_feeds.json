@@ -1,0 +1,4 @@
+{
+  "feeds": [],
+  "notes": "Optional. Add podcast RSS feeds here. The updater only imports episodes when it can identify an original YouTube URL, so BingeBuzz embeds the creator's source rather than rehosting media."
+}

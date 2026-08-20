@@ -1,0 +1,100 @@
+{
+  "channels": [
+    {
+      "handle": "@NetflixIsAJoke",
+      "label": "Netflix Is A Joke",
+      "default_category": "standup",
+      "priority": 1
+    },
+    {
+      "handle": "@donttellcomedy",
+      "label": "Don't Tell Comedy",
+      "default_category": "standup",
+      "priority": 1
+    },
+    {
+      "handle": "@ComedyCentralStandUp",
+      "label": "Comedy Central Stand-Up",
+      "default_category": "standup",
+      "priority": 1
+    },
+    {
+      "handle": "@ComedyCentral",
+      "label": "Comedy Central",
+      "default_category": "sketch",
+      "priority": 2
+    },
+    {
+      "handle": "@KillTony",
+      "label": "Kill Tony",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@TheoVon",
+      "label": "Theo Von",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@YMHStudios",
+      "label": "YMH Studios",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@BadFriends",
+      "label": "Bad Friends",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@TigerBelly",
+      "label": "TigerBelly",
+      "default_category": "podcast",
+      "priority": 2
+    },
+    {
+      "handle": "@TeamCoco",
+      "label": "Team Coco",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@ToshShow",
+      "label": "Tosh Show",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@AdamRayComedy",
+      "label": "Adam Ray",
+      "default_category": "standup",
+      "priority": 1
+    },
+    {
+      "handle": "@AndrewSchulz",
+      "label": "Andrew Schulz",
+      "default_category": "standup",
+      "priority": 1
+    },
+    {
+      "handle": "@StavvyBaby",
+      "label": "Stavvy's World",
+      "default_category": "podcast",
+      "priority": 2
+    },
+    {
+      "handle": "@NateBargatze",
+      "label": "Nate Bargatze",
+      "default_category": "standup",
+      "priority": 2
+    },
+    {
+      "handle": "@marknormand",
+      "label": "Mark Normand",
+      "default_category": "standup",
+      "priority": 2
+    }
+  ]
+}
