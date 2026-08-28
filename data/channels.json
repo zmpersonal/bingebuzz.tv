@@ -95,6 +95,126 @@
       "label": "Mark Normand",
       "default_category": "standup",
       "priority": 2
+    },
+    {
+      "handle": "@SaturdayNightLive",
+      "label": "Saturday Night Live",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@MSsecretpod",
+      "label": "Matt and Shane's Secret Podcast",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@AreYouGarbage",
+      "label": "Are You Garbage?",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@OfficialFlagrant",
+      "label": "FLAGRANT",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@DryBarComedy",
+      "label": "Dry Bar Comedy",
+      "default_category": "standup",
+      "priority": 1
+    },
+    {
+      "handle": "@AllDef",
+      "label": "All Def",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@druski",
+      "label": "Druski",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@RDCworld1",
+      "label": "RDCworld1",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@CalebCity",
+      "label": "CalebCity",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@smosh",
+      "label": "Smosh",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@RyanGeorge",
+      "label": "Ryan George",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@GillyandKeeves",
+      "label": "Gilly and Keeves",
+      "default_category": "sketch",
+      "priority": 1
+    },
+    {
+      "handle": "@ComedyMothership",
+      "label": "Comedy Mothership",
+      "default_category": "standup",
+      "priority": 1
+    },
+    {
+      "handle": "@LaughFactory",
+      "label": "Laugh Factory",
+      "default_category": "standup",
+      "priority": 2
+    },
+    {
+      "handle": "@TheTimDillonShow",
+      "label": "The Tim Dillon Show",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@WeMightBeDrunkPod",
+      "label": "We Might Be Drunk",
+      "default_category": "podcast",
+      "priority": 1
+    },
+    {
+      "handle": "@TheComedyStore",
+      "label": "The Comedy Store",
+      "default_category": "standup",
+      "priority": 2
+    },
+    {
+      "handle": "@JustForLaughs",
+      "label": "Just For Laughs",
+      "default_category": "standup",
+      "priority": 2
+    },
+    {
+      "handle": "@ComedyDynamics",
+      "label": "Comedy Dynamics",
+      "default_category": "standup",
+      "priority": 2
+    },
+    {
+      "handle": "@JeffArcuri",
+      "label": "Jeff Arcuri",
+      "default_category": "crowdwork",
+      "priority": 1
     }
   ]
 }
