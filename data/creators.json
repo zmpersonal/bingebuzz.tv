@@ -1,93 +1,93 @@
 [
   {
     "creator": "Don't Tell Comedy",
-    "creator_buzz": 88.8,
-    "momentum_score": 60.9,
-    "recent_views": 5219009,
+    "creator_buzz": 89.6,
+    "momentum_score": 75.4,
+    "recent_views": 5498189,
     "clip_count": 31
   },
   {
     "creator": "Team Coco",
-    "creator_buzz": 86.8,
-    "momentum_score": 71.3,
-    "recent_views": 4822365,
-    "clip_count": 34
-  },
-  {
-    "creator": "Theo Von",
-    "creator_buzz": 80.7,
-    "momentum_score": 73.0,
-    "recent_views": 11249248,
-    "clip_count": 31
-  },
-  {
-    "creator": "Netflix Is A Joke",
-    "creator_buzz": 80.3,
-    "momentum_score": 72.7,
-    "recent_views": 2796752,
-    "clip_count": 57
-  },
-  {
-    "creator": "YMH Studios",
-    "creator_buzz": 74.6,
-    "momentum_score": 41.8,
-    "recent_views": 2675722,
+    "creator_buzz": 85.4,
+    "momentum_score": 83.7,
+    "recent_views": 5287630,
     "clip_count": 36
   },
   {
-    "creator": "Adam Ray",
-    "creator_buzz": 73.2,
-    "momentum_score": 60.6,
-    "recent_views": 2383155,
-    "clip_count": 27
+    "creator": "Theo Von",
+    "creator_buzz": 79.1,
+    "momentum_score": 60.5,
+    "recent_views": 11534044,
+    "clip_count": 32
+  },
+  {
+    "creator": "Netflix Is A Joke",
+    "creator_buzz": 78.6,
+    "momentum_score": 66.3,
+    "recent_views": 2939813,
+    "clip_count": 58
+  },
+  {
+    "creator": "YMH Studios",
+    "creator_buzz": 77.6,
+    "momentum_score": 72.5,
+    "recent_views": 2879451,
+    "clip_count": 36
   },
   {
     "creator": "Kill Tony",
-    "creator_buzz": 72.3,
-    "momentum_score": 72.9,
-    "recent_views": 20162171,
-    "clip_count": 10
+    "creator_buzz": 72.5,
+    "momentum_score": 72.1,
+    "recent_views": 17855556,
+    "clip_count": 9
+  },
+  {
+    "creator": "Adam Ray",
+    "creator_buzz": 71.7,
+    "momentum_score": 58.3,
+    "recent_views": 2443469,
+    "clip_count": 27
   },
   {
     "creator": "Bad Friends",
-    "creator_buzz": 72.1,
-    "momentum_score": 61.8,
-    "recent_views": 6030575,
-    "clip_count": 25
-  },
-  {
-    "creator": "TigerBelly",
-    "creator_buzz": 69.4,
-    "momentum_score": 67.2,
-    "recent_views": 2217284,
-    "clip_count": 26
-  },
-  {
-    "creator": "mark normand",
-    "creator_buzz": 68.1,
-    "momentum_score": 55.6,
-    "recent_views": 1461524,
+    "creator_buzz": 70.7,
+    "momentum_score": 57.5,
+    "recent_views": 6080338,
     "clip_count": 25
   },
   {
     "creator": "Stavros Halkias",
-    "creator_buzz": 68.1,
-    "momentum_score": 42.0,
-    "recent_views": 320104,
+    "creator_buzz": 69.0,
+    "momentum_score": 57.3,
+    "recent_views": 354316,
     "clip_count": 4
   },
   {
+    "creator": "mark normand",
+    "creator_buzz": 67.9,
+    "momentum_score": 40.0,
+    "recent_views": 1482953,
+    "clip_count": 26
+  },
+  {
+    "creator": "TigerBelly",
+    "creator_buzz": 67.3,
+    "momentum_score": 60.6,
+    "recent_views": 2288682,
+    "clip_count": 26
+  },
+  {
     "creator": "tosh show",
-    "creator_buzz": 62.8,
-    "momentum_score": 49.4,
-    "recent_views": 2112957,
-    "clip_count": 18
+    "creator_buzz": 60.5,
+    "momentum_score": 44.6,
+    "recent_views": 2039512,
+    "clip_count": 17
   },
   {
     "creator": "Comedy Central",
-    "creator_buzz": 54.7,
-    "momentum_score": 41.6,
-    "recent_views": 1087536,
+    "creator_buzz": 53.4,
+    "momentum_score": 38.8,
+    "recent_views": 1099509,
     "clip_count": 23
   }
 ]
