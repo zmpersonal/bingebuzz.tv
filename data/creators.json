@@ -1,226 +1,258 @@
 [
   {
+    "creator": "JennieRubyJaneVEVO",
+    "creator_buzz": 98.6,
+    "creator_funny": 97.1,
+    "momentum_score": 123.0,
+    "recent_views": 7676247,
+    "clip_count": 1
+  },
+  {
+    "creator": "Mob Entertainment",
+    "creator_buzz": 92.6,
+    "creator_funny": 90.4,
+    "momentum_score": 91.7,
+    "recent_views": 1110786,
+    "clip_count": 1
+  },
+  {
     "creator": "Don't Tell Comedy",
-    "creator_buzz": 81.6,
-    "creator_funny": 74.3,
-    "momentum_score": 0.0,
-    "recent_views": 4675893,
+    "creator_buzz": 82.1,
+    "creator_funny": 75.5,
+    "momentum_score": 62.7,
+    "recent_views": 4838448,
+    "clip_count": 22
+  },
+  {
+    "creator": "Druski",
+    "creator_buzz": 81.1,
+    "creator_funny": 70.6,
+    "momentum_score": 80.7,
+    "recent_views": 18421734,
     "clip_count": 20
   },
   {
     "creator": "CalebCity",
-    "creator_buzz": 81.0,
-    "creator_funny": 83.3,
-    "momentum_score": 0.0,
-    "recent_views": 695130,
+    "creator_buzz": 78.6,
+    "creator_funny": 82.2,
+    "momentum_score": 62.6,
+    "recent_views": 703951,
     "clip_count": 2
   },
   {
-    "creator": "Druski",
-    "creator_buzz": 79.6,
-    "creator_funny": 70.7,
-    "momentum_score": 0.0,
-    "recent_views": 17993394,
-    "clip_count": 20
-  },
-  {
     "creator": "Team Coco",
-    "creator_buzz": 75.5,
-    "creator_funny": 63.4,
-    "momentum_score": 0.0,
-    "recent_views": 3512992,
-    "clip_count": 20
-  },
-  {
-    "creator": "Smosh",
-    "creator_buzz": 72.4,
-    "creator_funny": 70.7,
-    "momentum_score": 0.0,
-    "recent_views": 4110016,
-    "clip_count": 18
+    "creator_buzz": 78.0,
+    "creator_funny": 59.9,
+    "momentum_score": 66.4,
+    "recent_views": 3781730,
+    "clip_count": 21
   },
   {
     "creator": "Theo Von",
-    "creator_buzz": 70.3,
-    "creator_funny": 65.0,
-    "momentum_score": 0.0,
-    "recent_views": 7367099,
+    "creator_buzz": 74.2,
+    "creator_funny": 64.6,
+    "momentum_score": 76.8,
+    "recent_views": 7522090,
     "clip_count": 20
   },
   {
-    "creator": "Saturday Night Live",
-    "creator_buzz": 68.8,
-    "creator_funny": 61.0,
-    "momentum_score": 0.0,
-    "recent_views": 6884683,
-    "clip_count": 20
+    "creator": "Spawn Wave",
+    "creator_buzz": 72.9,
+    "creator_funny": 65.9,
+    "momentum_score": 71.9,
+    "recent_views": 110467,
+    "clip_count": 1
   },
   {
-    "creator": "Bad Friends",
-    "creator_buzz": 67.4,
-    "creator_funny": 61.8,
-    "momentum_score": 0.0,
-    "recent_views": 4469180,
-    "clip_count": 20
+    "creator": "Peacock",
+    "creator_buzz": 72.6,
+    "creator_funny": 55.0,
+    "momentum_score": 79.1,
+    "recent_views": 245560,
+    "clip_count": 1
   },
   {
-    "creator": "YMH Studios",
-    "creator_buzz": 66.6,
-    "creator_funny": 62.4,
-    "momentum_score": 0.0,
-    "recent_views": 1417172,
-    "clip_count": 20
+    "creator": "Smosh",
+    "creator_buzz": 71.4,
+    "creator_funny": 69.7,
+    "momentum_score": 59.6,
+    "recent_views": 3750756,
+    "clip_count": 17
   },
   {
     "creator": "Netflix Is A Joke",
-    "creator_buzz": 66.2,
-    "creator_funny": 71.6,
-    "momentum_score": 0.0,
-    "recent_views": 1203081,
+    "creator_buzz": 69.6,
+    "creator_funny": 64.4,
+    "momentum_score": 56.7,
+    "recent_views": 1285923,
+    "clip_count": 24
+  },
+  {
+    "creator": "YMH Studios",
+    "creator_buzz": 69.2,
+    "creator_funny": 64.1,
+    "momentum_score": 57.6,
+    "recent_views": 1502314,
     "clip_count": 22
   },
   {
-    "creator": "Adam Ray",
-    "creator_buzz": 62.9,
-    "creator_funny": 55.0,
-    "momentum_score": 0.0,
-    "recent_views": 1970338,
+    "creator": "Bad Friends",
+    "creator_buzz": 69.1,
+    "creator_funny": 60.0,
+    "momentum_score": 67.8,
+    "recent_views": 4564066,
+    "clip_count": 20
+  },
+  {
+    "creator": "AreYouGarbage? Comedy Podcast",
+    "creator_buzz": 67.9,
+    "creator_funny": 59.0,
+    "momentum_score": 52.1,
+    "recent_views": 2410775,
+    "clip_count": 21
+  },
+  {
+    "creator": "Saturday Night Live",
+    "creator_buzz": 66.8,
+    "creator_funny": 58.3,
+    "momentum_score": 55.6,
+    "recent_views": 6908931,
     "clip_count": 20
   },
   {
     "creator": "Kill Tony",
-    "creator_buzz": 62.7,
-    "creator_funny": 43.7,
-    "momentum_score": 0.0,
-    "recent_views": 17876056,
-    "clip_count": 9
+    "creator_buzz": 66.7,
+    "creator_funny": 44.9,
+    "momentum_score": 72.0,
+    "recent_views": 17985684,
+    "clip_count": 10
   },
   {
-    "creator": "AreYouGarbage? Comedy Podcast",
-    "creator_buzz": 62.0,
-    "creator_funny": 56.2,
-    "momentum_score": 0.0,
-    "recent_views": 2359142,
-    "clip_count": 20
-  },
-  {
-    "creator": "mark normand",
-    "creator_buzz": 61.4,
-    "creator_funny": 64.5,
-    "momentum_score": 0.0,
-    "recent_views": 869598,
+    "creator": "Adam Ray",
+    "creator_buzz": 63.2,
+    "creator_funny": 55.0,
+    "momentum_score": 57.7,
+    "recent_views": 1996584,
     "clip_count": 20
   },
   {
     "creator": "Matt and Shane's Secret Podcast",
-    "creator_buzz": 61.1,
-    "creator_funny": 47.9,
-    "momentum_score": 0.0,
-    "recent_views": 4575812,
+    "creator_buzz": 63.1,
+    "creator_funny": 48.3,
+    "momentum_score": 63.0,
+    "recent_views": 4625486,
     "clip_count": 9
   },
   {
-    "creator": "tosh show",
-    "creator_buzz": 59.6,
-    "creator_funny": 53.2,
-    "momentum_score": 0.0,
-    "recent_views": 2043480,
-    "clip_count": 18
-  },
-  {
-    "creator": "FLAGRANT",
-    "creator_buzz": 59.0,
-    "creator_funny": 43.8,
-    "momentum_score": 0.0,
-    "recent_views": 2690512,
+    "creator": "mark normand",
+    "creator_buzz": 62.0,
+    "creator_funny": 61.0,
+    "momentum_score": 56.0,
+    "recent_views": 888010,
     "clip_count": 20
   },
   {
-    "creator": "RDCworld1",
-    "creator_buzz": 58.9,
-    "creator_funny": 72.2,
-    "momentum_score": 0.0,
-    "recent_views": 1219262,
-    "clip_count": 2
+    "creator": "Dry Bar Comedy",
+    "creator_buzz": 61.7,
+    "creator_funny": 66.7,
+    "momentum_score": 47.6,
+    "recent_views": 449243,
+    "clip_count": 21
   },
   {
     "creator": "Stavros Halkias",
-    "creator_buzz": 58.6,
-    "creator_funny": 59.8,
-    "momentum_score": 0.0,
-    "recent_views": 360192,
+    "creator_buzz": 60.9,
+    "creator_funny": 59.5,
+    "momentum_score": 57.2,
+    "recent_views": 382067,
     "clip_count": 4
   },
   {
-    "creator": "Dry Bar Comedy",
-    "creator_buzz": 58.0,
-    "creator_funny": 68.5,
-    "momentum_score": 0.0,
-    "recent_views": 423647,
+    "creator": "TigerBelly",
+    "creator_buzz": 60.6,
+    "creator_funny": 44.6,
+    "momentum_score": 61.6,
+    "recent_views": 1956106,
     "clip_count": 20
   },
   {
     "creator": "Comedy Dynamics",
-    "creator_buzz": 58.0,
+    "creator_buzz": 60.6,
     "creator_funny": 66.4,
-    "momentum_score": 0.0,
-    "recent_views": 341635,
+    "momentum_score": 45.7,
+    "recent_views": 360968,
+    "clip_count": 21
+  },
+  {
+    "creator": "FLAGRANT",
+    "creator_buzz": 60.0,
+    "creator_funny": 43.3,
+    "momentum_score": 60.4,
+    "recent_views": 2760343,
     "clip_count": 20
   },
   {
-    "creator": "Ryan George",
-    "creator_buzz": 57.9,
-    "creator_funny": 71.5,
-    "momentum_score": 0.0,
-    "recent_views": 1735280,
-    "clip_count": 5
+    "creator": "tosh show",
+    "creator_buzz": 59.1,
+    "creator_funny": 52.4,
+    "momentum_score": 56.5,
+    "recent_views": 2065810,
+    "clip_count": 18
   },
   {
-    "creator": "TigerBelly",
-    "creator_buzz": 57.6,
-    "creator_funny": 45.7,
-    "momentum_score": 0.0,
-    "recent_views": 1923807,
+    "creator": "Ryan George",
+    "creator_buzz": 58.7,
+    "creator_funny": 72.5,
+    "momentum_score": 46.1,
+    "recent_views": 1364181,
+    "clip_count": 4
+  },
+  {
+    "creator": "RDCworld1",
+    "creator_buzz": 57.5,
+    "creator_funny": 71.8,
+    "momentum_score": 46.3,
+    "recent_views": 1221525,
+    "clip_count": 2
+  },
+  {
+    "creator": "We Might Be Drunk Podcast",
+    "creator_buzz": 53.2,
+    "creator_funny": 53.5,
+    "momentum_score": 50.4,
+    "recent_views": 980527,
     "clip_count": 20
   },
   {
     "creator": "Comedy Central",
-    "creator_buzz": 54.0,
-    "creator_funny": 50.9,
-    "momentum_score": 0.0,
-    "recent_views": 964868,
-    "clip_count": 20
-  },
-  {
-    "creator": "We Might Be Drunk Podcast",
-    "creator_buzz": 52.4,
-    "creator_funny": 57.7,
-    "momentum_score": 0.0,
-    "recent_views": 967543,
+    "creator_buzz": 53.1,
+    "creator_funny": 47.2,
+    "momentum_score": 46.1,
+    "recent_views": 975821,
     "clip_count": 20
   },
   {
     "creator": "Just For Laughs",
-    "creator_buzz": 41.6,
-    "creator_funny": 47.5,
-    "momentum_score": 0.0,
-    "recent_views": 162680,
-    "clip_count": 20
+    "creator_buzz": 43.1,
+    "creator_funny": 39.3,
+    "momentum_score": 35.0,
+    "recent_views": 171336,
+    "clip_count": 22
   },
   {
     "creator": "All Def",
-    "creator_buzz": 38.7,
-    "creator_funny": 61.8,
-    "momentum_score": 0.0,
-    "recent_views": 195395,
+    "creator_buzz": 38.5,
+    "creator_funny": 61.9,
+    "momentum_score": 26.6,
+    "recent_views": 196462,
     "clip_count": 8
   },
   {
     "creator": "The Comedy Store",
-    "creator_buzz": 26.9,
-    "creator_funny": 45.4,
-    "momentum_score": 0.0,
-    "recent_views": 99995,
-    "clip_count": 20
+    "creator_buzz": 37.4,
+    "creator_funny": 47.5,
+    "momentum_score": 13.4,
+    "recent_views": 102618,
+    "clip_count": 22
   }
 ]
